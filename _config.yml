@@ -3,5 +3,4 @@ logo: data_logo.webp
 description: I am a detail-oriented data analyst with 3 years experience, I am proficient in Excel, SQL, and Power BI. Specializing in leveraging data insights for business decisions.
 #show_downloads: true
 #google_analytics:
-theme: jekyll-theme-time-machine
-#jekyll-theme-minimal
+theme: jekyll-theme-minimal
