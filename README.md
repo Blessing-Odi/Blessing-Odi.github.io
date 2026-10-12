@@ -1,7 +1,7 @@
 # Data Analytics Project Portfolio
 # Project 1
 
-**Title:** Analytics Dashboard
+**Title:** #title Analytics Dashboard
 
 **Tools Used:** Microsoft Excel (pivot chart, pivot tables, slicers, pipelines, conditional formatting, powerquery editor)
 
@@ -25,8 +25,18 @@ Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant dat
 
 Data Source Specification (FROM): Specified the tables used as data sources for retrieval
 
-
 **Project Description:**
 
 **Technology used:** SQL server
 
+# Project 3
+
+**Title:** #titleAnalytics Dashboard
+
+**Tools Used:** Power BI
+
+**Project Description:**
+
+**Key findings:**
+
+**Dashboard Overview:**
